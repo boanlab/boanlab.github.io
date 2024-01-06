@@ -1,4 +1,23 @@
-# 머신러닝
+---
+layout: default
+title: Machine-Learning
+parent: Courses
+nav_order: 61
+has_children: true
+---
+
+# Machine Learning
+{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+- TOC
+{:toc}
+
+---
+
+## Introduction
 
 - [머신러닝](https://github.com/boanlab/boanlab.github.io/tree/main/docs/courses/machine-learning/machine_learning.md)
 - [지도학습](https://github.com/boanlab/boanlab.github.io/tree/main/docs/courses/machine-learning/Supervised_Learning.md)

@@ -1,9 +1,18 @@
 ---
+layout: default
 title: Reset Kubernetes
-author: Jaehyun Nam
-date: 2022-07-19
-category: default
-layout: post
+parent: Wiki
+---
+
+# Reset Kubernetes
+{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+- TOC
+{:toc}
+
 ---
 
 ## Reset Kubernetes
