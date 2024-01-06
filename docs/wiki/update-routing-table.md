@@ -1,9 +1,18 @@
 ---
+layout: default
 title: Update a Routing Table
-author: Jaehyun Nam
-date: 2022-07-19
-category: default
-layout: post
+parent: Wiki
+---
+
+# Update a Routing Table
+{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+- TOC
+{:toc}
+
 ---
 
 ## Update a Routing Table

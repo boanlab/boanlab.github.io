@@ -1,9 +1,18 @@
 ---
+layout: default
 title: Reset Docker
-author: Jaehyun Nam
-date: 2022-07-19
-category: default
-layout: post
+parent: Wiki
+---
+
+# Reset Docker
+{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+- TOC
+{:toc}
+
 ---
 
 ## Reset Docker

@@ -1,3 +1,20 @@
+---
+layout: default
+title: AdaBoost
+parent: Wiki
+---
+
+# AdaBoost
+{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+- TOC
+{:toc}
+
+---
+
 # AdaBoost
 
 ## AdaBoost 란?

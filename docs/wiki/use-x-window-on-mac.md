@@ -1,9 +1,18 @@
 ---
-title: Use X-Window on Mac OS X
-author: Jaehyun Nam
-date: 2022-07-18
-category: default
-layout: post
+layout: default
+title: Use X Window on Mac
+parent: Wiki
+---
+
+# Use X Window on Mac
+{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+- TOC
+{:toc}
+
 ---
 
 ## Reference

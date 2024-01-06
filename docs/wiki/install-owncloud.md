@@ -1,9 +1,18 @@
 ---
-title: Install OwnCloud
-author: Jaehyun Nam
-date: 2022-07-19
-category: default
-layout: post
+layout: default
+title: Install Owncloud
+parent: Wiki
+---
+
+# Install Owncloud
+{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+- TOC
+{:toc}
+
 ---
 
 ## Install APM
