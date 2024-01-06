@@ -1,7 +1,7 @@
 ---
 layout: default
 title: AdaBoost
-parent: Wiki
+parent: Machine-Learning
 ---
 
 # AdaBoost
