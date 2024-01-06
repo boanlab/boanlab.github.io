@@ -1,3 +1,20 @@
+---
+layout: default
+title: Linear_regression
+parent: Machine-Learning
+---
+
+# Linear_regression
+{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+- TOC
+{:toc}
+
+---
+
 # Linear regression
 
 ## 선형 회귀란?

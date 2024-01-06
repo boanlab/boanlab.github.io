@@ -1,3 +1,20 @@
+---
+layout: default
+title: Logistic_Regression
+parent: Machine-Learning
+---
+
+# Logistic_Regression
+{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+- TOC
+{:toc}
+
+---
+
 # Logistic Regression
 
 ## 로지스틱 회귀란?

@@ -1,3 +1,20 @@
+---
+layout: default
+title: Classification
+parent: Machine-Learning
+---
+
+# Classification
+{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+- TOC
+{:toc}
+
+---
+
 # 분류
 
 ## 분류란?
