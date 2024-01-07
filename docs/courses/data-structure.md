@@ -22,19 +22,19 @@ nav_order: 11
 
 # 자료 구조 (Data Structure)
 
-- [리스트](docs/courses/data_structure/list.md)
+- [리스트](data_structure/list.md)
 
   - 배열
   - 연결 리스트 (linked list)
   - 이중 연결 리스트 (doubly linked list)
   - 환형 연결 리스트 (circular linked list)
 
-- [스택](docs/courses/data_structure/stack.md)
+- [스택](data_structure/stack.md)
 
   - 배열 기반 스택
   - 연결 리스트 기반 스택
 
-- [큐](docs/courses/data_structure/queue.md)
+- [큐](data_structure/queue.md)
 
   - 배열 기반 큐
   - 순환 큐
@@ -44,7 +44,7 @@ nav_order: 11
     - 배열 기반 데크
     - 연결 리스트 기반 데크
 
-- [트리](docs/courses/data_structure/tree.md)
+- [트리](data_structure/tree.md)
 
   - 트리
 
@@ -61,7 +61,7 @@ nav_order: 11
 
   - 분리 집합
 
-- [그래프](docs/courses/data_structure/graph.md)
+- [그래프](data_structure/graph.md)
 
   - 그래프
   - 그래프 순회
