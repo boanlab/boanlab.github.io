@@ -2,6 +2,7 @@
 layout: default
 title: SVD
 parent: Machine-Learning
+grand_parent: Courses
 ---
 
 # SVD

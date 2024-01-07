@@ -2,6 +2,7 @@
 layout: default
 title: Naive_Bayes
 parent: Machine-Learning
+grand_parent: Courses
 ---
 
 # Naive_Bayes

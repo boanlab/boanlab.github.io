@@ -2,6 +2,7 @@
 layout: default
 title: Logistic_Regression
 parent: Machine-Learning
+grand_parent: Courses
 ---
 
 # Logistic_Regression

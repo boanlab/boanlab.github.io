@@ -2,6 +2,7 @@
 layout: default
 title: DecisionTree
 parent: Machine-Learning
+grand_parent: Courses
 ---
 
 # DecisionTree

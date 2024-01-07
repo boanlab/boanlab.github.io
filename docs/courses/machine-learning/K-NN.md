@@ -2,6 +2,7 @@
 layout: default
 title: K-NN
 parent: Machine-Learning
+grand_parent: Courses
 ---
 
 # K-NN
