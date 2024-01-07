@@ -1,3 +1,20 @@
+---
+layout: default
+title: DecisionTree
+parent: Machine-Learning
+---
+
+# DecisionTree
+{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+- TOC
+{:toc}
+
+---
+
 # DecisionTree
 
 ## 의사 결정 나무란?
