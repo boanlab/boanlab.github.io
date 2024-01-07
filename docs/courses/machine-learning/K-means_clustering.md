@@ -2,6 +2,7 @@
 layout: default
 title: K-means_clustering
 parent: Machine-Learning
+grand_parent: Courses
 ---
 
 # K-means_clustering

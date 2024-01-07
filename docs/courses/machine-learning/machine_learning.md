@@ -2,6 +2,7 @@
 layout: default
 title: Machine_learning
 parent: Machine-Learning
+grand_parent: Courses
 ---
 
 # Machine_learning

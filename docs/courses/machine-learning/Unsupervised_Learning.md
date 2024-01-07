@@ -2,6 +2,7 @@
 layout: default
 title: Unsupervised_Learning
 parent: Machine-Learning
+grand_parent: Courses
 ---
 
 # Unsupervised_Learning

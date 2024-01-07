@@ -2,6 +2,7 @@
 layout: default
 title: Supervised_Learning
 parent: Machine-Learning
+grand_parent: Courses
 ---
 
 # Supervised_Learning

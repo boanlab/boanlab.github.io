@@ -2,6 +2,7 @@
 layout: default
 title: Tree-based_regression
 parent: Machine-Learning
+grand_parent: Courses
 ---
 
 # Tree-based_regression

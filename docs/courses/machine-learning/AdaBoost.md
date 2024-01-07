@@ -2,6 +2,7 @@
 layout: default
 title: AdaBoost
 parent: Machine-Learning
+grand_parent: Courses
 ---
 
 # AdaBoost

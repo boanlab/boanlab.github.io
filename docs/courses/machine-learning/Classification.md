@@ -2,6 +2,7 @@
 layout: default
 title: Classification
 parent: Machine-Learning
+grand_parent: Courses
 ---
 
 # Classification

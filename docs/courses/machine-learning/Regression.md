@@ -2,6 +2,7 @@
 layout: default
 title: Regression
 parent: Machine-Learning
+grand_parent: Courses
 ---
 
 # Regression

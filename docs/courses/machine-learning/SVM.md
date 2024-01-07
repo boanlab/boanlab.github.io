@@ -2,6 +2,7 @@
 layout: default
 title: SVM
 parent: Machine-Learning
+grand_parent: Courses
 ---
 
 # SVM

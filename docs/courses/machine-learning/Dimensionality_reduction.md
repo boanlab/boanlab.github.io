@@ -2,6 +2,7 @@
 layout: default
 title: Dimensionality_reduction
 parent: Machine-Learning
+grand_parent: Courses
 ---
 
 # Dimensionality_reduction
