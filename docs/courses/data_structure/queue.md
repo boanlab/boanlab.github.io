@@ -1,3 +1,23 @@
+---
+layout: default
+title: Queue
+parent: Data_Structure
+grand_parent: Courses
+---
+
+# Queue
+
+{: .no_toc }
+
+## Table of contents
+
+{: .no_toc .text-delta }
+
+- TOC
+  {:toc}
+
+---
+
 # 큐(Queue)
 
 ### 정의

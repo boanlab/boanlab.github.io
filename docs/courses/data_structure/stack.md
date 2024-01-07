@@ -1,3 +1,23 @@
+---
+layout: default
+title: Stack
+parent: Data_Structure
+grand_parent: Courses
+---
+
+# Stack
+
+{: .no_toc }
+
+## Table of contents
+
+{: .no_toc .text-delta }
+
+- TOC
+  {:toc}
+
+---
+
 # 스택
 
 ### 정의

@@ -1,3 +1,23 @@
+---
+layout: default
+title: List
+parent: Data_Structure
+grand_parent: Courses
+---
+
+# List
+
+{: .no_toc }
+
+## Table of contents
+
+{: .no_toc .text-delta }
+
+- TOC
+  {:toc}
+
+---
+
 # 리스트
 
 ## 리스트

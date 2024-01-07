@@ -1,3 +1,23 @@
+---
+layout: default
+title: Tree
+parent: Data_Structure
+grand_parent: Courses
+---
+
+# Tree
+
+{: .no_toc }
+
+## Table of contents
+
+{: .no_toc .text-delta }
+
+- TOC
+  {:toc}
+
+---
+
 # 트리
 
 ### 정의

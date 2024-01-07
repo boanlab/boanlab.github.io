@@ -1,3 +1,23 @@
+---
+layout: default
+title: Graph
+parent: Data_Structure
+grand_parent: Courses
+---
+
+# Graph
+
+{: .no_toc }
+
+## Table of contents
+
+{: .no_toc .text-delta }
+
+- TOC
+  {:toc}
+
+---
+
 # 그래프
 
 ## 정의
