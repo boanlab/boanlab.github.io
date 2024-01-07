@@ -1,3 +1,21 @@
+---
+layout: default
+title: K-NN
+parent: Machine-Learning
+grand_parent: Courses
+---
+
+# K-NN
+{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+- TOC
+{:toc}
+
+---
+
 # K-NN
 
 ## K-NN이란?

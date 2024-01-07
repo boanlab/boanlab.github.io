@@ -1,3 +1,21 @@
+---
+layout: default
+title: SVD
+parent: Machine-Learning
+grand_parent: Courses
+---
+
+# SVD
+{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+- TOC
+{:toc}
+
+---
+
 # Singular Value Decomposition
 
 ## SVD란?

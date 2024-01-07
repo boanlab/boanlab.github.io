@@ -1,3 +1,21 @@
+---
+layout: default
+title: Naive_Bayes
+parent: Machine-Learning
+grand_parent: Courses
+---
+
+# Naive_Bayes
+{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+- TOC
+{:toc}
+
+---
+
 # Naive Bayes
 
 ## 나이브 베이즈란?

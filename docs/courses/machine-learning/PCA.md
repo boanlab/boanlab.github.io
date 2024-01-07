@@ -1,3 +1,21 @@
+---
+layout: default
+title: PCA
+parent: Machine-Learning
+grand_parent: Courses
+---
+
+# PCA
+{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+- TOC
+{:toc}
+
+---
+
 # Principal Components Analysis
 
 ## PCA란?

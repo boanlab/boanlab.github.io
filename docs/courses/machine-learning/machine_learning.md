@@ -1,3 +1,21 @@
+---
+layout: default
+title: Machine_learning
+parent: Machine-Learning
+grand_parent: Courses
+---
+
+# Machine_learning
+{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+- TOC
+{:toc}
+
+---
+
 # 머신러닝
 
 # 머신러닝이란?

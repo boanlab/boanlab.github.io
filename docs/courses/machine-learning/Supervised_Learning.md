@@ -1,3 +1,21 @@
+---
+layout: default
+title: Supervised_Learning
+parent: Machine-Learning
+grand_parent: Courses
+---
+
+# Supervised_Learning
+{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+- TOC
+{:toc}
+
+---
+
 # 지도학습
 
 ## 지도학습이란?

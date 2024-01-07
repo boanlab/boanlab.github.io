@@ -1,3 +1,21 @@
+---
+layout: default
+title: SVM
+parent: Machine-Learning
+grand_parent: Courses
+---
+
+# SVM
+{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+- TOC
+{:toc}
+
+---
+
 # Support Vector Machine
 
 ## SVM 란?

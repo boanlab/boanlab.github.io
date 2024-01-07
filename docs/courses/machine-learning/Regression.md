@@ -1,3 +1,21 @@
+---
+layout: default
+title: Regression
+parent: Machine-Learning
+grand_parent: Courses
+---
+
+# Regression
+{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+- TOC
+{:toc}
+
+---
+
 # 회귀
 
 ## 회귀란?

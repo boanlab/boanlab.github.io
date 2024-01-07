@@ -1,3 +1,21 @@
+---
+layout: default
+title: K-means_clustering
+parent: Machine-Learning
+grand_parent: Courses
+---
+
+# K-means_clustering
+{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+- TOC
+{:toc}
+
+---
+
 # K-means Clustering
 
 ## **K-평균 클러스터링**이란?

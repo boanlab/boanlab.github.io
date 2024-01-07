@@ -1,3 +1,21 @@
+---
+layout: default
+title: Dimensionality_reduction
+parent: Machine-Learning
+grand_parent: Courses
+---
+
+# Dimensionality_reduction
+{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+- TOC
+{:toc}
+
+---
+
 # Dimensionality reduction
 
 ## 차원축소란?
