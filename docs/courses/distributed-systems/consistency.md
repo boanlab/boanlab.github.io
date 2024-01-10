@@ -6,15 +6,13 @@ grand_parent: Courses
 ---
 
 # Consistency and Replication
-
 {: .no_toc }
 
 ## Table of contents
-
 {: .no_toc .text-delta }
 
 - TOC
-  {:toc}
+{:toc}
 
 ---
 
