@@ -7,15 +7,13 @@ has_children: true
 ---
 
 # Distributed Systems
-
 {: .no_toc }
 
 ## Table of contents
-
 {: .no_toc .text-delta }
 
 - TOC
-  {:toc}
+{:toc}
 
 ---
 
