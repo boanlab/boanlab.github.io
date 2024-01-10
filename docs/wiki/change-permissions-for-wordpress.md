@@ -4,16 +4,14 @@ title: Change Permissions for Wordpress
 parent: Wiki
 ---
 
-# Configure Crontab
-
+# Change Permissions for Wordpress
 {: .no_toc }
 
 ## Table of contents
-
 {: .no_toc .text-delta }
 
 - TOC
-  {:toc}
+{:toc}
 
 ---
 
