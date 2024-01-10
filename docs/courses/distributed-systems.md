@@ -7,17 +7,21 @@ has_children: true
 ---
 
 # Distributed Systems
-
 {: .no_toc }
 
 ## Table of contents
-
 {: .no_toc .text-delta }
 
 - TOC
-  {:toc}
+{:toc}
 
 ---
+
+<div align="right">
+  <a href="https://github.com/kpryu6">
+    <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</div>
 
 ## Introduction
 
