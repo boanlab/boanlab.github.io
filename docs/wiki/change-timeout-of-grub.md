@@ -4,16 +4,14 @@ title: Change Timeout of Grub
 parent: Wiki
 ---
 
-# Configure Crontab
-
+# Change Timeout of Grub
 {: .no_toc }
 
 ## Table of contents
-
 {: .no_toc .text-delta }
 
 - TOC
-  {:toc}
+{:toc}
 
 ---
 
