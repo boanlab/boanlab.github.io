@@ -17,6 +17,12 @@ has_children: true
 
 ---
 
+<div align="right">
+  <a href="https://github.com/kpryu6">
+    <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</div>
+
 ## Introduction
 
 - [Introduction](https://github.com/boanlab/boanlab.github.io/blob/983f556286b0291107974c2d8fc5c556dc1a5e1d/docs/courses/distributed-systems/introduction.md)
