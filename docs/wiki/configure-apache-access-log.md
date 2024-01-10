@@ -4,16 +4,14 @@ title: Configure Apache Access Log
 parent: Wiki
 ---
 
-# Configure Crontab
-
+# Configure Apache Access Log
 {: .no_toc }
 
 ## Table of contents
-
 {: .no_toc .text-delta }
 
 - TOC
-  {:toc}
+{:toc}
 
 ---
 
