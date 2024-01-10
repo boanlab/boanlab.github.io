@@ -3,6 +3,7 @@ layout: default
 title: Distributed-Systems
 parent: Courses
 nav_order: 16
+has_children: true
 ---
 
 # Distributed Systems
@@ -20,12 +21,10 @@ nav_order: 16
 
 ## Introduction
 
-# 분산 시스템 (Distributed Systems)
-
-- [Introduction](distributed_systems/introduction.md)
-- [Architectural Styles](distributed_systems/architecture.md)
-- [Communications](distributed_systems/communication.md)
-- [Naming](distributed_systems/naming.md)
-- [Coordination](distributed_systems/coordination.md)
-- [Consistency and Replication](distributed_systems/consistency.md)
-- [Fault Tolerance](distributed_systems/fault_tolerance.md)
+- [Introduction](https://github.com/boanlab/boanlab.github.io/blob/ed4076027fb332125eacfadc542c4be12b86e0ed/docs/courses/distributed_systems/introduction.md)
+- [Architectural Styles](https://github.com/boanlab/boanlab.github.io/blob/ed4076027fb332125eacfadc542c4be12b86e0ed/docs/courses/distributed_systems/architecture.md)
+- [Communications](https://github.com/boanlab/boanlab.github.io/blob/ed4076027fb332125eacfadc542c4be12b86e0ed/docs/courses/distributed_systems/communication.md)
+- [Naming](https://github.com/boanlab/boanlab.github.io/blob/ed4076027fb332125eacfadc542c4be12b86e0ed/docs/courses/distributed_systems/naming.md)
+- [Coordination](https://github.com/boanlab/boanlab.github.io/blob/ed4076027fb332125eacfadc542c4be12b86e0ed/docs/courses/distributed_systems/coordination.md)
+- [Consistency and Replication](https://github.com/boanlab/boanlab.github.io/blob/ed4076027fb332125eacfadc542c4be12b86e0ed/docs/courses/distributed_systems/consistency.md)
+- [Fault Tolerance](https://github.com/boanlab/boanlab.github.io/blob/ed4076027fb332125eacfadc542c4be12b86e0ed/docs/courses/distributed_systems/fault_tolerance.md)
