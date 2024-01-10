@@ -4,7 +4,7 @@ title: Arista Switch Openflow Setup
 parent: Wiki
 ---
 
-# Configure Crontab
+# Arista Switch Openflow Setup
 {: .no_toc }
 
 ## Table of contents
