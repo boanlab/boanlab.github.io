@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AdaBoost
+title: String_matching
 parent: Algorithms
 grand_parent: Courses
 ---

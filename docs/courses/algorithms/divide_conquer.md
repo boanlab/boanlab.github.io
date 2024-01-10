@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AdaBoost
+title: Divide_conquer
 parent: Algorithms
 grand_parent: Courses
 ---
