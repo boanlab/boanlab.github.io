@@ -21,10 +21,10 @@ has_children: true
 
 ## Introduction
 
-- [Introduction](https://github.com/boanlab/boanlab.github.io/blob/ed4076027fb332125eacfadc542c4be12b86e0ed/docs/courses/distributed_systems/introduction.md)
-- [Architectural Styles](https://github.com/boanlab/boanlab.github.io/blob/ed4076027fb332125eacfadc542c4be12b86e0ed/docs/courses/distributed_systems/architecture.md)
-- [Communications](https://github.com/boanlab/boanlab.github.io/blob/ed4076027fb332125eacfadc542c4be12b86e0ed/docs/courses/distributed_systems/communication.md)
-- [Naming](https://github.com/boanlab/boanlab.github.io/blob/ed4076027fb332125eacfadc542c4be12b86e0ed/docs/courses/distributed_systems/naming.md)
-- [Coordination](https://github.com/boanlab/boanlab.github.io/blob/ed4076027fb332125eacfadc542c4be12b86e0ed/docs/courses/distributed_systems/coordination.md)
-- [Consistency and Replication](https://github.com/boanlab/boanlab.github.io/blob/ed4076027fb332125eacfadc542c4be12b86e0ed/docs/courses/distributed_systems/consistency.md)
-- [Fault Tolerance](https://github.com/boanlab/boanlab.github.io/blob/ed4076027fb332125eacfadc542c4be12b86e0ed/docs/courses/distributed_systems/fault_tolerance.md)
+- [Introduction](https://github.com/boanlab/boanlab.github.io/blob/983f556286b0291107974c2d8fc5c556dc1a5e1d/docs/courses/distributed-systems/introduction.md)
+- [Architectural Styles](https://github.com/boanlab/boanlab.github.io/blob/983f556286b0291107974c2d8fc5c556dc1a5e1d/docs/courses/distributed-systems/architecture.md)
+- [Communications](https://github.com/boanlab/boanlab.github.io/blob/983f556286b0291107974c2d8fc5c556dc1a5e1d/docs/courses/distributed-systems/communication.md)
+- [Naming](https://github.com/boanlab/boanlab.github.io/blob/983f556286b0291107974c2d8fc5c556dc1a5e1d/docs/courses/distributed-systems/naming.md)
+- [Coordination](https://github.com/boanlab/boanlab.github.io/blob/983f556286b0291107974c2d8fc5c556dc1a5e1d/docs/courses/distributed-systems/coordination.md)
+- [Consistency and Replication](https://github.com/boanlab/boanlab.github.io/blob/983f556286b0291107974c2d8fc5c556dc1a5e1d/docs/courses/distributed-systems/consistency.md)
+- [Fault Tolerance](https://github.com/boanlab/boanlab.github.io/blob/983f556286b0291107974c2d8fc5c556dc1a5e1d/docs/courses/distributed-systems/fault_tolerance.md)

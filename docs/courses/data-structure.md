@@ -21,19 +21,19 @@ has_children: true
 
 ## Introduction
 
-- [리스트](https://github.com/boanlab/boanlab.github.io/blob/ed4076027fb332125eacfadc542c4be12b86e0ed/docs/courses/data_structure/list.md)
+- [리스트](https://github.com/boanlab/boanlab.github.io/blob/983f556286b0291107974c2d8fc5c556dc1a5e1d/docs/courses/data-structure/list.md)
 
   - 배열
   - 연결 리스트 (linked list)
   - 이중 연결 리스트 (doubly linked list)
   - 환형 연결 리스트 (circular linked list)
 
-- [스택](https://github.com/boanlab/boanlab.github.io/blob/ed4076027fb332125eacfadc542c4be12b86e0ed/docs/courses/data_structure/stack.md)
+- [스택](https://github.com/boanlab/boanlab.github.io/blob/983f556286b0291107974c2d8fc5c556dc1a5e1d/docs/courses/data-structure/stack.md)
 
   - 배열 기반 스택
   - 연결 리스트 기반 스택
 
-- [큐](https://github.com/boanlab/boanlab.github.io/blob/ed4076027fb332125eacfadc542c4be12b86e0ed/docs/courses/data_structure/queue.md)
+- [큐](https://github.com/boanlab/boanlab.github.io/blob/983f556286b0291107974c2d8fc5c556dc1a5e1d/docs/courses/data-structure/queue.md)
 
   - 배열 기반 큐
   - 순환 큐
@@ -43,7 +43,7 @@ has_children: true
     - 배열 기반 데크
     - 연결 리스트 기반 데크
 
-- [트리](https://github.com/boanlab/boanlab.github.io/blob/ed4076027fb332125eacfadc542c4be12b86e0ed/docs/courses/data_structure/tree.md)
+- [트리](https://github.com/boanlab/boanlab.github.io/blob/983f556286b0291107974c2d8fc5c556dc1a5e1d/docs/courses/data-structure/tree.md)
 
   - 트리
 
@@ -60,7 +60,7 @@ has_children: true
 
   - 분리 집합
 
-- [그래프](https://github.com/boanlab/boanlab.github.io/blob/ed4076027fb332125eacfadc542c4be12b86e0ed/docs/courses/data_structure/graph.md)
+- [그래프](https://github.com/boanlab/boanlab.github.io/blob/983f556286b0291107974c2d8fc5c556dc1a5e1d/docs/courses/data-structure/graph.md)
 
   - 그래프
   - 그래프 순회
