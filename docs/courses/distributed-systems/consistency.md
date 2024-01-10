@@ -16,6 +16,12 @@ grand_parent: Courses
 
 ---
 
+<div align="right">
+  <a href="https://github.com/kpryu6">
+    <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</div>
+
 # Consistency and Replication
 
 - **Replication (복제)의 목적**
