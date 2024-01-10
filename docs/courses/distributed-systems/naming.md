@@ -18,6 +18,12 @@ grand_parent: Courses
 
 # Naming
 
+<div align="right">
+  <a href="https://github.com/kpryu6">
+    <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</div>
+
 ### Naming 이란?
 
 - Naming (개체 네이밍)이란?
