@@ -3,6 +3,7 @@ layout: default
 title: Algorithms
 parent: Courses
 nav_order: 12
+has_children: true
 ---
 
 # Algorithms
