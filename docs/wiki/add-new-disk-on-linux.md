@@ -5,15 +5,13 @@ parent: Wiki
 ---
 
 # Configure Crontab
-
 {: .no_toc }
 
 ## Table of contents
-
 {: .no_toc .text-delta }
 
 - TOC
-  {:toc}
+{:toc}
 
 ---
 
