@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Data Structure
+title: Data-Structure
 parent: Courses
 nav_order: 11
 ---

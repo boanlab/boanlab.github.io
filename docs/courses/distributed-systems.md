@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Distributed Systems
+title: Distributed-Systems
 parent: Courses
 nav_order: 16
 ---
