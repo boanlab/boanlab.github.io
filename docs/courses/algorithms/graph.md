@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AdaBoost
+title: Graph
 parent: Algorithms
 grand_parent: Courses
 ---

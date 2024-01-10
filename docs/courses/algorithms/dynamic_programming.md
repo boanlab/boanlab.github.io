@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AdaBoost
+title: Dynamic_programming
 parent: Algorithms
 grand_parent: Courses
 ---

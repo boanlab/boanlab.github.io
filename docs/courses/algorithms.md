@@ -19,7 +19,7 @@ has_children: true
 
 ## Introduction
 
-- [정렬 알고리즘](sort.md)
+- [정렬 알고리즘](algorithms/sort.md)
 
   - 버블 정렬
   - 선택 정렬
@@ -32,7 +32,7 @@ has_children: true
     - 최소값과 최대값 동시에 찾기
     - i번째 크기 원소 찾기
 
-- [탐색 알고리즘](search.md)
+- [탐색 알고리즘](algorithms/search.md)
 
   - 순차 탐색
     - 전진 이동법
@@ -45,7 +45,7 @@ has_children: true
 
   - 트라이 (Trie)
 
-- [우선순위 큐와 힙](heap.md)
+- [우선순위 큐와 힙](algorithms/heap.md)
 
   - 우선순위 큐
   - 힙
@@ -53,7 +53,7 @@ has_children: true
     - 최대/최소 힙
   - 힙 정렬
 
-- [해시](hash.md)
+- [해시](algorithms/hash.md)
 
   - 해시테이블
     - 해시
@@ -70,7 +70,7 @@ has_children: true
     - 2차 탐사 방법
     - 체이닝 방법
 
-- [그래프](graph.md)
+- [그래프](algorithms/graph.md)
 
   - 그래프 표현
     - 인접 행렬
@@ -93,7 +93,7 @@ has_children: true
   - 네트워크 유량
     - 포드-풀카슨 알고리즘
 
-- [문자열 탐색](string_matching.md)
+- [문자열 탐색](algorithms/string_matching.md)
 
   - 단순 비교
   - 라빈-카프 알고리즘
@@ -101,13 +101,13 @@ has_children: true
   - 보이어-무어 알고리즘
   - 아호-코라식 알고리즘
 
-- [데이터 압축](compression.md)
+- [데이터 압축](algorithms/compression.md)
 
   - RLE (run-length encoding)
   - 허프만 코딩
   - 동적 (적응형) 허프만 코딩
 
-- [탐욕 알고리즘](greedy.md)
+- [탐욕 알고리즘](algorithms/greedy.md)
 
   - 개요
   - 거스름돈 줄이기 문제
@@ -115,25 +115,25 @@ has_children: true
   - 다익스크라 알고리즘 (review)
   - 허프만 코딩 (review)
 
-- [분할 정복](divide_conquer.md)
+- [분할 정복](algorithms/divide_conquer.md)
 
   - 개요
   - 합병 정렬
   - 거듭 제곱 계산법
   - 피보나치 수열
 
-- [동적 계획법](dynamic_programming.md)
+- [동적 계획법](algorithms/dynamic_programming.md)
 
   - 개요
   - 피보나치 수열
   - 최장 공통 부분 수열
 
-- [백트래킹](back_tracking.md)
+- [백트래킹](algorithms/back_tracking.md)
 
   - 개요
   - 미로 탈출 문제
   - 8개의 퀸 문제
 
-- [NP-완전 문제](np.md)
+- [NP-완전 문제](algorithms/np.md)
 
   - 개요

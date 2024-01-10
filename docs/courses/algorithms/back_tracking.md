@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AdaBoost
+title: Back_tracking
 parent: Algorithms
 grand_parent: Courses
 ---

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AdaBoost
+title: Compression
 parent: Algorithms
 grand_parent: Courses
 ---
