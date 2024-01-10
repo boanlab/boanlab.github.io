@@ -4,16 +4,14 @@ title: Change MAC address of Network Interface
 parent: Wiki
 ---
 
-# Configure Crontab
-
+# Change MAC address of Network Interface
 {: .no_toc }
 
 ## Table of contents
-
 {: .no_toc .text-delta }
 
 - TOC
-  {:toc}
+{:toc}
 
 ---
 
