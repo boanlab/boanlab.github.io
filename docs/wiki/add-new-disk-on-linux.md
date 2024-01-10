@@ -4,7 +4,7 @@ title: Add New disk on Linux
 parent: Wiki
 ---
 
-# Configure Crontab
+# Add New disk on Linux
 {: .no_toc }
 
 ## Table of contents
