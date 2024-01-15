@@ -17,3 +17,9 @@ nav_order: 13
 ---
 
 ## Introduction
+- Intro of Computer Architecture
+- Representation of Data in Binary
+- Instruction for Machine
+- CPU_Basic
+- CPU_Advance
+- Memory & Cache
